@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mina</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://minabl.github.io/](https://minabl.github.io/)
+- 👨‍💻 All of my projects are available at [https://minabl.github.io/](https://minabl-github-io.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
